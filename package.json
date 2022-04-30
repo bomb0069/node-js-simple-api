@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bomb0069/node-js-simple-api/issues"
   },
-  "homepage": "https://github.com/bomb0069/node-js-simple-api#readme"
+  "homepage": "https://github.com/bomb0069/node-js-simple-api#readme",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
 }
