@@ -1,0 +1,19 @@
+{
+  "name": "simple-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bomb0069/node-js-simple-api.git"
+  },
+  "author": "bomb0069",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bomb0069/node-js-simple-api/issues"
+  },
+  "homepage": "https://github.com/bomb0069/node-js-simple-api#readme"
+}
